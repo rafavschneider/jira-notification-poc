@@ -1,3 +1,6 @@
+# Secrets and env
+.env
+
 # IDEs and code editors
 .idea
 
